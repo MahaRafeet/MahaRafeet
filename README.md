@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋
+# Hi there 👋 I'm maha 
 
 ---
 
@@ -19,6 +19,5 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=MahaRafeet&color=blueviolet&style=flat-square)
 
 </div>
