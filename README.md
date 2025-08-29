@@ -14,10 +14,5 @@
 
 ---
 
-## 😂 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-
----
-
 
 </div>
