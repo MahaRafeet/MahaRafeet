@@ -5,5 +5,8 @@
 
 ## 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+## 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
 
 </div>
