@@ -1,6 +1,6 @@
 <div align="center">
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00008B&width=400&lines=Hi+there+👋+I'm+Maha)
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=F70000&width=400&lines=Hi+there+👋+I'm+Maha)
 
 ---   
 🌱 I’m currently learning Java<br>
