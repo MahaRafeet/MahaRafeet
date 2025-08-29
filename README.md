@@ -1,12 +1,24 @@
 <div align="center">
 
+# Hi there 👋
+
+---
+
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MahaRafeet&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
 
+---
+
 ## 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-## 😂 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
+---
+
+## 😂 Random Dev Joke
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=MahaRafeet&color=blueviolet&style=flat-square)
 
 </div>
