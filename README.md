@@ -9,8 +9,8 @@
 📚 Always curious to learn something new every day<br>
 ⚡ Fun fact: I can code better after a strong cup of coffee  
 
-⏰ Current Time in Muscat:  
-![Muscat Time](https://img.shields.io/badge/dynamic/json?color=green&label=Muscat%20Time&query=$.datetime&url=http://worldtimeapi.org/api/timezone/Asia/Muscat)
+⏰ Current Time: <!--TIME--> 01 Sep 2025 - 1:50 PM <!--END TIME-->
+
 
 ---
 
