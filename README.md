@@ -10,7 +10,6 @@
 ⚡ Fun fact: I can code better after a strong cup of coffee  
 
 ---
-## 🎮 Fun Zone
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 ---
