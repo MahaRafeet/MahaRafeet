@@ -9,9 +9,6 @@
 📚 Always curious to learn something new every day<br>
 ⚡ Fun fact: I can code better after a strong cup of coffee  
 
-⏰ Current Time in Muscat:  
-![Muscat Time](https://img.shields.io/badge/dynamic/json?color=green&label=Muscat%20Time&query=$.datetime&url=http://worldtimeapi.org/api/timezone/Asia/Muscat)
-
 ---
 ## 🎮 Fun Zone
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
