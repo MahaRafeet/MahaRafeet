@@ -9,8 +9,8 @@
 📚 Always curious to learn something new every day<br>
 ⚡ Fun fact: I can code better after a strong cup of coffee  
 
-⏰ Current Time: <!--TIME--> 01 Sep 2025 - 1:50 PM <!--END TIME-->
-
+⏰ Current Time in Muscat:  
+![Muscat Time](https://img.shields.io/badge/dynamic/json?color=green&label=Muscat%20Time&query=$.datetime&url=http://worldtimeapi.org/api/timezone/Asia/Muscat)
 
 ---
 
@@ -19,8 +19,18 @@
 
 ---
 
+## 🚀 My Coding Streak
+<img src="https://streak-stats.demolab.com?user=MahaRafeet&theme=dark&border_radius=12" alt="GitHub Streak" />
+
+---
+
 ## 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+---
+
+## 🎮 Fun Zone
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 ---
 
