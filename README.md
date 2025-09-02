@@ -13,9 +13,7 @@
 <!-- Coding GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 ---
-<!-- Girl coding GIF -->
-<img src="https://media.giphy.com/media/3o7TKz3M2XWIX1YyXY/giphy.gif" width="300">
----
+
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MahaRafeet&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
