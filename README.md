@@ -15,14 +15,6 @@
 
 ---
 
-## 💻 Skills
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MahaRafeet&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
 
