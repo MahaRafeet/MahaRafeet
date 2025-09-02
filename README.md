@@ -12,6 +12,7 @@
 ---
 <!-- Coding GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+---
 <!-- Girl coding GIF -->
 <img src="https://media.giphy.com/media/3o7TKz3M2XWIX1YyXY/giphy.gif" width="300">
 ---
