@@ -19,6 +19,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MahaRafeet&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
 
 ---
+## 📈 GitHub Activity Graph
+
+[![MahaRafeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MahaRafeet&bg_color=ffffff&color=000000&line=4c8eda&point=1f6feb&area=true&hide_border=true)](https://github.com/MahaRafeet)
+
 
 
 ## 💡 Random Dev Quote
