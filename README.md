@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#f9f9f9; padding:20px; border-radius:12px;">
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile!" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6A5ACD&height=100&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff" />
 </p>
 
 ![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=400&lines=Hi+there+👋+I'm+Maha)
