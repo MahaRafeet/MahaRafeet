@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A5ACD&height=100&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff" />
 </p>
 
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8B0000&width=400&lines=Hi+there+👋+I'm+Maha)
+![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&fontColor=ffffff&width=400&lines=Hi+there+👋+I'm+Maha)
 
 ---
 
