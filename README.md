@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=ffffff&background=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Maha" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Maha" />
 </p>
 
 ---
@@ -33,8 +33,4 @@
 ---
 
 ## 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
----
-
-</div>
+<img src="https://quotes-github-rea
