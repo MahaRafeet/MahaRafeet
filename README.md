@@ -1,11 +1,4 @@
-<div align="center" style="background-color:#f9f9f9; padding:20px; border-radius:12px;">
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6A5ACD&height=100&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff" />
-</p>
-
-![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=6A5ACD&background=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Maha)
-</div>
-
+<div align="center" style="background-color:#f9f9f9; padding:20px; border-radius:12px;"> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=6A5ACD&height=100&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff" /> </p> ![Typing Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&fontColor=ffffff&width=400&lines=Hi+there+👋+I'm+Maha) ---
 
 🌱 I’m currently learning **Java**  
 🎯 My goal: Become a skilled **Full-Stack Web Developer**  
